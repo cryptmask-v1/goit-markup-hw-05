@@ -489,6 +489,7 @@ button:focus {
   fill: #f4f4fd;
 }
 .footer-form-section {
+  padding-left: 80px;
   margin-bottom: 8px;
 }
 
